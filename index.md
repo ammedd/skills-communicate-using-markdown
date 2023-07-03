@@ -13,3 +13,6 @@ Now let's add an image /n
 # some code
 blablabla
 ```
+- [ ] Will this be a list?
+- [ ] With markable items?
+- [ ] I think so!
